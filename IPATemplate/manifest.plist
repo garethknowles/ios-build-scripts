@@ -23,7 +23,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string><BUNDLE_ID/string>
+				<string>BUNDLE_ID</string>
 				<key>bundle-version</key>
 				<string>APPLICATION_VERSION</string>
 				<key>kind</key>
